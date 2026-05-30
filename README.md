@@ -57,7 +57,6 @@ A full-stack event management web application developed as a college mini projec
 ![Payment](images/payment2.png)
 ![Payment](images/payment3.png)
 
-
 ## Note
 
 This repository showcases my contributions to a team-based college mini project that was originally developed outside of GitHub collaboration.
